@@ -1,0 +1,16 @@
+\\HOME\home\tb171\Desktop\AN 3\SEM II\PAOO\Proiect1\bin\Debug\net8.0-windows\Proiect1.exe
+\\HOME\home\tb171\Desktop\AN 3\SEM II\PAOO\Proiect1\bin\Debug\net8.0-windows\Proiect1.deps.json
+\\HOME\home\tb171\Desktop\AN 3\SEM II\PAOO\Proiect1\bin\Debug\net8.0-windows\Proiect1.runtimeconfig.json
+\\HOME\home\tb171\Desktop\AN 3\SEM II\PAOO\Proiect1\bin\Debug\net8.0-windows\Proiect1.dll
+\\HOME\home\tb171\Desktop\AN 3\SEM II\PAOO\Proiect1\bin\Debug\net8.0-windows\Proiect1.pdb
+\\HOME\home\tb171\Desktop\AN 3\SEM II\PAOO\Proiect1\obj\Debug\net8.0-windows\Proiect1.Form1.resources
+\\HOME\home\tb171\Desktop\AN 3\SEM II\PAOO\Proiect1\obj\Debug\net8.0-windows\Proiect1.csproj.GenerateResource.cache
+\\HOME\home\tb171\Desktop\AN 3\SEM II\PAOO\Proiect1\obj\Debug\net8.0-windows\Proiect1.GeneratedMSBuildEditorConfig.editorconfig
+\\HOME\home\tb171\Desktop\AN 3\SEM II\PAOO\Proiect1\obj\Debug\net8.0-windows\Proiect1.AssemblyInfoInputs.cache
+\\HOME\home\tb171\Desktop\AN 3\SEM II\PAOO\Proiect1\obj\Debug\net8.0-windows\Proiect1.AssemblyInfo.cs
+\\HOME\home\tb171\Desktop\AN 3\SEM II\PAOO\Proiect1\obj\Debug\net8.0-windows\Proiect1.csproj.CoreCompileInputs.cache
+\\HOME\home\tb171\Desktop\AN 3\SEM II\PAOO\Proiect1\obj\Debug\net8.0-windows\Proiect1.dll
+\\HOME\home\tb171\Desktop\AN 3\SEM II\PAOO\Proiect1\obj\Debug\net8.0-windows\refint\Proiect1.dll
+\\HOME\home\tb171\Desktop\AN 3\SEM II\PAOO\Proiect1\obj\Debug\net8.0-windows\Proiect1.pdb
+\\HOME\home\tb171\Desktop\AN 3\SEM II\PAOO\Proiect1\obj\Debug\net8.0-windows\Proiect1.genruntimeconfig.cache
+\\HOME\home\tb171\Desktop\AN 3\SEM II\PAOO\Proiect1\obj\Debug\net8.0-windows\ref\Proiect1.dll
