@@ -1,0 +1,17 @@
+H:\Desktop\AN3\Sem_2\PAOO_Proiect\Proiect4\bin\Debug\net8.0-windows\Proiect4.exe
+H:\Desktop\AN3\Sem_2\PAOO_Proiect\Proiect4\bin\Debug\net8.0-windows\Proiect4.deps.json
+H:\Desktop\AN3\Sem_2\PAOO_Proiect\Proiect4\bin\Debug\net8.0-windows\Proiect4.runtimeconfig.json
+H:\Desktop\AN3\Sem_2\PAOO_Proiect\Proiect4\bin\Debug\net8.0-windows\Proiect4.dll
+H:\Desktop\AN3\Sem_2\PAOO_Proiect\Proiect4\bin\Debug\net8.0-windows\Proiect4.pdb
+H:\Desktop\AN3\Sem_2\PAOO_Proiect\Proiect4\obj\Debug\net8.0-windows\Proiect4.Form1.resources
+H:\Desktop\AN3\Sem_2\PAOO_Proiect\Proiect4\obj\Debug\net8.0-windows\Proiect4.csproj.GenerateResource.cache
+H:\Desktop\AN3\Sem_2\PAOO_Proiect\Proiect4\obj\Debug\net8.0-windows\Proiect4.GeneratedMSBuildEditorConfig.editorconfig
+H:\Desktop\AN3\Sem_2\PAOO_Proiect\Proiect4\obj\Debug\net8.0-windows\Proiect4.AssemblyInfoInputs.cache
+H:\Desktop\AN3\Sem_2\PAOO_Proiect\Proiect4\obj\Debug\net8.0-windows\Proiect4.AssemblyInfo.cs
+H:\Desktop\AN3\Sem_2\PAOO_Proiect\Proiect4\obj\Debug\net8.0-windows\Proiect4.csproj.CoreCompileInputs.cache
+H:\Desktop\AN3\Sem_2\PAOO_Proiect\Proiect4\obj\Debug\net8.0-windows\Proiect4.sourcelink.json
+H:\Desktop\AN3\Sem_2\PAOO_Proiect\Proiect4\obj\Debug\net8.0-windows\Proiect4.dll
+H:\Desktop\AN3\Sem_2\PAOO_Proiect\Proiect4\obj\Debug\net8.0-windows\refint\Proiect4.dll
+H:\Desktop\AN3\Sem_2\PAOO_Proiect\Proiect4\obj\Debug\net8.0-windows\Proiect4.pdb
+H:\Desktop\AN3\Sem_2\PAOO_Proiect\Proiect4\obj\Debug\net8.0-windows\Proiect4.genruntimeconfig.cache
+H:\Desktop\AN3\Sem_2\PAOO_Proiect\Proiect4\obj\Debug\net8.0-windows\ref\Proiect4.dll

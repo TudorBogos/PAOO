@@ -1,0 +1,17 @@
+H:\Desktop\AN3\Sem_2\PAOO_Proiect\Proiect3\bin\Debug\net8.0-windows\Proiect3.exe
+H:\Desktop\AN3\Sem_2\PAOO_Proiect\Proiect3\bin\Debug\net8.0-windows\Proiect3.deps.json
+H:\Desktop\AN3\Sem_2\PAOO_Proiect\Proiect3\bin\Debug\net8.0-windows\Proiect3.runtimeconfig.json
+H:\Desktop\AN3\Sem_2\PAOO_Proiect\Proiect3\bin\Debug\net8.0-windows\Proiect3.dll
+H:\Desktop\AN3\Sem_2\PAOO_Proiect\Proiect3\bin\Debug\net8.0-windows\Proiect3.pdb
+H:\Desktop\AN3\Sem_2\PAOO_Proiect\Proiect3\obj\Debug\net8.0-windows\Proiect3.Form1.resources
+H:\Desktop\AN3\Sem_2\PAOO_Proiect\Proiect3\obj\Debug\net8.0-windows\Proiect3.csproj.GenerateResource.cache
+H:\Desktop\AN3\Sem_2\PAOO_Proiect\Proiect3\obj\Debug\net8.0-windows\Proiect3.GeneratedMSBuildEditorConfig.editorconfig
+H:\Desktop\AN3\Sem_2\PAOO_Proiect\Proiect3\obj\Debug\net8.0-windows\Proiect3.AssemblyInfoInputs.cache
+H:\Desktop\AN3\Sem_2\PAOO_Proiect\Proiect3\obj\Debug\net8.0-windows\Proiect3.AssemblyInfo.cs
+H:\Desktop\AN3\Sem_2\PAOO_Proiect\Proiect3\obj\Debug\net8.0-windows\Proiect3.csproj.CoreCompileInputs.cache
+H:\Desktop\AN3\Sem_2\PAOO_Proiect\Proiect3\obj\Debug\net8.0-windows\Proiect3.sourcelink.json
+H:\Desktop\AN3\Sem_2\PAOO_Proiect\Proiect3\obj\Debug\net8.0-windows\Proiect3.dll
+H:\Desktop\AN3\Sem_2\PAOO_Proiect\Proiect3\obj\Debug\net8.0-windows\refint\Proiect3.dll
+H:\Desktop\AN3\Sem_2\PAOO_Proiect\Proiect3\obj\Debug\net8.0-windows\Proiect3.pdb
+H:\Desktop\AN3\Sem_2\PAOO_Proiect\Proiect3\obj\Debug\net8.0-windows\Proiect3.genruntimeconfig.cache
+H:\Desktop\AN3\Sem_2\PAOO_Proiect\Proiect3\obj\Debug\net8.0-windows\ref\Proiect3.dll

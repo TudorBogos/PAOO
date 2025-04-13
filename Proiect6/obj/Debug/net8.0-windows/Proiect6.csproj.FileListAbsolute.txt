@@ -1,0 +1,17 @@
+H:\Desktop\AN3\Sem_2\PAOO_Proiect\Proiect6\bin\Debug\net8.0-windows\Proiect6.exe
+H:\Desktop\AN3\Sem_2\PAOO_Proiect\Proiect6\bin\Debug\net8.0-windows\Proiect6.deps.json
+H:\Desktop\AN3\Sem_2\PAOO_Proiect\Proiect6\bin\Debug\net8.0-windows\Proiect6.runtimeconfig.json
+H:\Desktop\AN3\Sem_2\PAOO_Proiect\Proiect6\bin\Debug\net8.0-windows\Proiect6.dll
+H:\Desktop\AN3\Sem_2\PAOO_Proiect\Proiect6\bin\Debug\net8.0-windows\Proiect6.pdb
+H:\Desktop\AN3\Sem_2\PAOO_Proiect\Proiect6\obj\Debug\net8.0-windows\Proiect6.Form1.resources
+H:\Desktop\AN3\Sem_2\PAOO_Proiect\Proiect6\obj\Debug\net8.0-windows\Proiect6.csproj.GenerateResource.cache
+H:\Desktop\AN3\Sem_2\PAOO_Proiect\Proiect6\obj\Debug\net8.0-windows\Proiect6.GeneratedMSBuildEditorConfig.editorconfig
+H:\Desktop\AN3\Sem_2\PAOO_Proiect\Proiect6\obj\Debug\net8.0-windows\Proiect6.AssemblyInfoInputs.cache
+H:\Desktop\AN3\Sem_2\PAOO_Proiect\Proiect6\obj\Debug\net8.0-windows\Proiect6.AssemblyInfo.cs
+H:\Desktop\AN3\Sem_2\PAOO_Proiect\Proiect6\obj\Debug\net8.0-windows\Proiect6.csproj.CoreCompileInputs.cache
+H:\Desktop\AN3\Sem_2\PAOO_Proiect\Proiect6\obj\Debug\net8.0-windows\Proiect6.sourcelink.json
+H:\Desktop\AN3\Sem_2\PAOO_Proiect\Proiect6\obj\Debug\net8.0-windows\Proiect6.dll
+H:\Desktop\AN3\Sem_2\PAOO_Proiect\Proiect6\obj\Debug\net8.0-windows\refint\Proiect6.dll
+H:\Desktop\AN3\Sem_2\PAOO_Proiect\Proiect6\obj\Debug\net8.0-windows\Proiect6.pdb
+H:\Desktop\AN3\Sem_2\PAOO_Proiect\Proiect6\obj\Debug\net8.0-windows\Proiect6.genruntimeconfig.cache
+H:\Desktop\AN3\Sem_2\PAOO_Proiect\Proiect6\obj\Debug\net8.0-windows\ref\Proiect6.dll
